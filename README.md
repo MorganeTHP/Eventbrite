@@ -10,8 +10,11 @@ Je t'invite aussi à ne pas oublier les commandes : - rails db:migrate
  Si les migrations ne fonctionnent pas : - rails db:drop
                                          - rails db:create
                                          - rails db:migrate
+                                         
+Si le mail n'est pas reçu il faut mettre tes propre api_key dans un .env ;) 
 
 Ps : La partie 2.2.2. Un email quand quelqu'un participe à l'événement n'a pas été finalisé par manque d'argent :(
+
 
 
 ![alt text](https://cache.cosmopolitan.fr/data/photo/w1000_ci/4z/bebe-loutre.jpg)
